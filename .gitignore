@@ -1,0 +1,4 @@
+
+*.sav
+*.vdf
+!MANUAL_SAVE.sav
